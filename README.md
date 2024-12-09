@@ -75,6 +75,7 @@ Connection to localhost closed.
 ```
 
 Same session from server POV:
+```
 2024-12-09 02:30:37,251 - INFO - Starting LLM Honey on 0.0.0.0:2222
 Saving details to sqlite
 2024-12-09 02:30:38,443 - INFO - Connection from ('127.0.0.1', 33558)
