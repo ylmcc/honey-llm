@@ -1,0 +1,5 @@
+paramiko
+sqlite3
+uuid  
+socket
+ollama
